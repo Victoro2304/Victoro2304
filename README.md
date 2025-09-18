@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 </p>
 
-
+<!-- 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victoro2304&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
